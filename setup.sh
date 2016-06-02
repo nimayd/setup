@@ -6,4 +6,4 @@ mkdir ~/.vim/plugin
 
 apt-get install cscope
 apt-get install ctags
-curl https://cscope.sourceforge.net/cscope_maps.vim > ~/.vim/plugin/cscopes_map.vim
+curl http://cscope.sourceforge.net/cscope_maps.vim > ~/.vim/plugin/cscopes_map.vim
