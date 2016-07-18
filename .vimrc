@@ -1,5 +1,8 @@
 "execute pathogen#infect()
 "filetype plugin indent on
+syntax on
+colorscheme zellner
+match ErrorMsg '\%>79v.\+'
 set tabstop=4
 set shiftwidth=4
 set expandtab
